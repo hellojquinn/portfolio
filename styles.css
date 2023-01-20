@@ -363,7 +363,7 @@
   
   .project-image {
     height: 230px;
-    width: 280px;
+    width: 290px;
     filter: brightness(25%);
     transition: 1s;
     object-fit: cover;
