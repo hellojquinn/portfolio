@@ -362,7 +362,7 @@
   }
   
   .project-image {
-    height: 220px;
+    height: 230px;
     width: 280px;
     filter: brightness(25%);
     transition: 1s;
